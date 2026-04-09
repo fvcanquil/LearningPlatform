@@ -12,7 +12,7 @@
     <groupId>com.duoc</groupId>
     <artifactId>LearningPlatform</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <n>LearningPlatform</n>
+    <name>LearningPlatform</name>
     <description>Plataforma de aprendizaje - Microservicios con Spring Boot</description>
     <properties>
         <java.version>21</java.version>
